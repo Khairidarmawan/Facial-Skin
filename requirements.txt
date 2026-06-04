@@ -9,3 +9,4 @@ matplotlib==3.9.2
 reportlab==4.2.2
 json-repair==0.28.3
 python-multipart==0.0.12
+requests
