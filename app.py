@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 import json
 import logging
@@ -2934,5 +2933,4 @@ async def generate_pdf(
 
 if __name__ == "__main__":
     import uvicorn
->>>>>>> 852bd8ed2197cce137b6260273534cb8b7090bd2
     uvicorn.run(app, host="127.0.0.1", port=8001)
